@@ -1,4 +1,4 @@
-<h1>Simplex/h1>
+<h1>Simplex</h1>
     
 ## File Layout
     main.exe
